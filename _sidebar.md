@@ -1,14 +1,25 @@
-<!-- docs/_sidebar.md -->
-
-
-* [HOME](./)
-
-* [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
-  * [Java](./tutorials/java/index)
-
-* [About](./about/index)
-
-* [Contact](./contact/index)
-
+* [00-Getting-Started](./00-Getting-Started/index.md)
+* [01-Must-Read](./01-Must-Read/index.md)
+* [02-Resources](./02-Resources/index.md)
+* [AMAs](./AMAs/index.md)
+* [Confirmation-Bias-and-Discussion](./Confirmation-Bias-and-Discussion/index.md)
+* [Crypto](./Crypto/index.md)
+* [DD](./DD/index.md)
+* [Daily-News](./Daily-News/index.md)
+* [Data](./Data/index.md)
+* [Economic-Crisis](./Economic-Crisis/index.md)
+* [Exit-Strategy](./Exit-Strategy/index.md)
+* [FUD](./FUD/index.md)
+* [GameStop-News-and-Information](./GameStop-News-and-Information/index.md)
+* [Government](./Government/index.md)
+* [Institutions](./Institutions/index.md)
+* [Key-Players](./Key-Players/index.md)
+* [Legal](./Legal/index.md)
+* [Managing-Wealth](./Managing-Wealth/index.md)
+* [Market-Manipulation](./Market-Manipulation/index.md)
+* [Max-Pain-Theory](./Max-Pain-Theory/index.md)
+* [Monkey-Business](./Monkey-Business/index.md)
+* [Regulations](./Regulations/index.md)
+* [Shareholder-Rights](./Shareholder-Rights/index.md)
+* [Technical-Analysis](./Technical-Analysis/index.md)
+* [Timeline](./Timeline/index.md)
